@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1661643184 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\filereader.cpp
+	"FileReader.h"
+
+1661643184 c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\filereader.h
+	"Paragraph.h"
+	<string>
+	<fstream>
+
+1661973263 c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\paragraph.h
+	<vector>
+	<tuple>
+	"Word.h"
+	"Line.h"
+
+1661961179 c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\word.h
+	<string>
+	<vector>
+
+1661970381 c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\line.h
+	"Word.h"
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<sstream>
+	<iterator>
+
+1661971007 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\line.cpp
+	"Line.h"
+
+1661979728 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"FileReader.h"
+	"Line.h"
+	"Paragraph.h"
+	"Word.h"
+
+1661974132 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\paragraph.cpp
+	"Paragraph.h"
+
+1661951536 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab2\repository\src\text-query-system\word.cpp
+	"Word.h"
+	<iostream>
+

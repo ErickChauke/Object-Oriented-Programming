@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1660692677 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab1\2022-lab-1-1849732-bagapi-1701547-chauke\src\complex\complex.cpp
+	<iostream>
+	<complex>
+
+1660692677 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab1\2022-lab-1-1849732-bagapi-1701547-chauke\src\screen\scr_main.cpp
+	"screen.h"
+	<iostream>
+
+1660692677 c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab1\2022-lab-1-1849732-bagapi-1701547-chauke\src\screen\screen.h
+	<string>
+	<iostream>
+
+1660692677 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab1\2022-lab-1-1849732-bagapi-1701547-chauke\src\screen\screen.cpp
+	"screen.h"
+
+1660692677 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab1\2022-lab-1-1849732-bagapi-1701547-chauke\src\stopwatch\stopwatch.cpp
+	"StopWatch.h"
+	<ctime>
+
+1660692677 c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab1\2022-lab-1-1849732-bagapi-1701547-chauke\src\stopwatch\stopwatch.h
+
+1660698768 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab1\2022-lab-1-1849732-bagapi-1701547-chauke\src\guessing-game\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

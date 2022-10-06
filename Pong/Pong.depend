@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1632232211 source:c:\users\erick chauke\documents\softaware folders and content\project\repository\elen3009-project\src\game-source-code\pong-main.cpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"pong-paddle.h"
+
+1632232211 c:\users\erick chauke\documents\softaware folders and content\project\repository\elen3009-project\src\game-source-code\pong-paddle.h
+	<SFML/Graphics.hpp>
+
+1632252071 source:c:\users\erick chauke\documents\softaware folders and content\project\repository\elen3009-project\src\game-source-code\pong-paddle.cpp
+	<SFML/Graphics.hpp>
+	"pong-paddle.h"
+

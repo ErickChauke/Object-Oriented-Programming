@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661766212 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\bubblesort\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\2022-lab-1-1849732-Bagapi-1701547-Chauke\src\screen\scr_main.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="112" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="..\2022-lab-1-1849732-Bagapi-1701547-Chauke\src\screen\screen.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="139" />
+		</Cursor>
+	</File>
+	<File name="..\2022-lab-1-1849732-Bagapi-1701547-Chauke\src\stopwatch\StopWatch.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="289" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\2022-lab-1-1849732-Bagapi-1701547-Chauke\src\complex\complex.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1144" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\2022-lab-1-1849732-Bagapi-1701547-Chauke\src\screen\screen.h" open="1" top="1" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="..\2022-lab-1-1849732-Bagapi-1701547-Chauke\src\stopwatch\StopWatch.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="242" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\2022-lab-1-1849732-Bagapi-1701547-Chauke\src\guessing-game\game.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

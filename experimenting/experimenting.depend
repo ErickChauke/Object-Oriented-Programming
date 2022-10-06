@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661731916 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\experimenting\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

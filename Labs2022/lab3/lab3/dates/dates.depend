@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664400854 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab3\repository\src\date\date-tests.cpp
+	"doctest.h"
+	"date.h"
+	<iostream>
+
+1664399351 c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab3\repository\src\date\date.h
+	<cassert>
+	<iostream>
+
+1664400782 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\labs2022\lab3\repository\src\date\date.cpp
+	"date.h"
+

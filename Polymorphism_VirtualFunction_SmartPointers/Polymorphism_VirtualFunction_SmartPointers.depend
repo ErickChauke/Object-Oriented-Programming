@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664673438 source:c:\users\erick chauke\documents\software 2 source codes\object oriented programming\polymorphism_virtualfunction_smartpointers\main.cpp
+	<iostream>
+	<memory>
+	<vector>
+
